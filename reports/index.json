@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260117-031114-43g0",
+    "title": "Im Fable",
+    "commanders": [
+      "Im Fable"
+    ],
+    "dateStart": "2026-01-17T02:11:14.000Z",
+    "dateEnd": "2026-01-17T03:27:51.000Z",
+    "dateLabel": "1/17/2026, 3:11:14 AM - 1/17/2026, 4:27:51 AM",
+    "url": "https://SPBojo-GH.github.io/COLogsForToddlers/?report=20260117-031114-43g0",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 21,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 45,
+      "avgEnemySize": 47
+    }
+  },
+  {
     "id": "20260117-042526-ba26",
     "title": "Im Fable",
     "commanders": [
